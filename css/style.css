@@ -357,8 +357,10 @@ h6 {
   height: 40px;
   background: #15a4fa;
   font-size: 16px;
+  padding:5px;
+  margin-left:10px;
   color: #fff;
-  padding: 1px solid #15a4fa;
+  border: 1px solid #15a4fa;
   border-radius: 2px;
   transition: 1s;
 }
